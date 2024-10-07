@@ -1,1 +1,1 @@
-# Picasso_Painting
+This is Cory Snapp's Picasso Painting Block 10 Assignment.
